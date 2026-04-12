@@ -1,6 +1,6 @@
-name: "R 2.2, checklist Conteúdo"
-description: "requisito  2.2, checklist Conteúdo"
-title: "R 2.2, checklist Conteúdo"
+name: "R 2.2 - Conteúdo"
+description: "Usabilidade, tamanho de letra info secundária"
+title: "R 2.2 - Conteúdo (Usabilidade, tamanho de letra info secundária)"
 labels:
   - chk conteúdo
   - R 2.2

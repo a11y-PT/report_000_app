@@ -1,6 +1,6 @@
-name: "R 7.2 - 10 Aspetos"
-description: "requisito 7.2, checklist 10 Aspetos Web"
-title: "R 7.2 - 10 Aspetos"
+name: "R 7.2 - 10 Aspetos Web"
+description: "Player, legendas"
+title: "R 7.2 - 10 Aspetos Web (Player, legendas)"
 labels:
   - chk 10 web
   - R 7.2

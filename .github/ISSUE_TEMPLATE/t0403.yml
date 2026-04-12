@@ -1,6 +1,6 @@
-name: "R 4.3, checklist Transação"
-description: "requisito  4.3, checklist Transação"
-title: "R 4.3, checklist Transação"
+name: "R 4.3 - Transação"
+description: "Erros, associar mensagens de erro ao campo"
+title: "R 4.3 - Transação"
 labels:
   - chk transação
   - R 4.3

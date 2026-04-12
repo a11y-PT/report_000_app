@@ -1,6 +1,6 @@
-name: "R 4.3 - 10 Aspetos"
-description: "requisito 4.3, checklist 10 Aspetos Web"
-title: "R 4.3 - 10 Aspetos"
+name: "R 4.3 - 10 Aspetos Web"
+description: "Formulários, mensagens de erro"
+title: "R 4.3 - 10 Aspetos Web (Formulários, mensagens de erro)"
 labels:
   - chk 10 web
   - R 4.3

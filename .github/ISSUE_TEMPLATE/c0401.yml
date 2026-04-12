@@ -1,6 +1,6 @@
-name: "R 4.1, checklist Conteúdo"
-description: "requisito  4.1, checklist Conteúdo"
-title: "R 4.1, checklist Conteúdo"
+name: "R 4.1 - Conteúdo"
+description: "Estrutura, indice em documentos longos"
+title: "R 4.1 - Conteúdo"
 labels:
   - chk conteúdo
   - R 4.1

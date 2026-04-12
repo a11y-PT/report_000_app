@@ -1,6 +1,6 @@
-name: "R 5.1, checklist Conteúdo"
-description: "requisito  5.1, checklist Conteúdo"
-title: "R 5.1, checklist Conteúdo"
+name: "R 5.1 - Conteúdo"
+description: "Interatividade, apenas onmousehover"
+title: "R 5.1 - Conteúdo"
 labels:
   - chk conteúdo
   - R 5.1

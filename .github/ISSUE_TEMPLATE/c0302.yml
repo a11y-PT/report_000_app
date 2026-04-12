@@ -1,6 +1,6 @@
-name: "R 3.2, checklist Conteúdo"
-description: "requisito  3.2, checklist Conteúdo"
-title: "R 3.2, checklist Conteúdo"
+name: "R 3.2 - Conteúdo"
+description: "Navegação, visível e consistente"
+title: "R 3.2 - Conteúdo"
 labels:
   - chk conteúdo
   - R 3.2

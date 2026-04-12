@@ -1,6 +1,6 @@
-name: "R 2.2 - 10 Aspetos"
-description: "requisito 2.2, checklist 10 Aspetos Web"
-title: "R 2.2 - 10 Aspetos"
+name: "R 2.2 - 10 Aspetos Web"
+description: "Títulos, hierarquia"
+title: "R 2.2 - 10 Aspetos Web (Títulos, hierarquia)"
 labels:
   - chk 10 web
   - R 2.2

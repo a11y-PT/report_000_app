@@ -1,6 +1,6 @@
-name: "R 4.2, checklist Conteúdo"
-description: "requisito  4.2, checklist Conteúdo"
-title: "R 4.2, checklist Conteúdo"
+name: "R 4.2 - Conteúdo"
+description: "Estrutura, adaptável a dispositivos móveis"
+title: "R 4.2 - Conteúdo"
 labels:
   - chk conteúdo
   - R 4.2

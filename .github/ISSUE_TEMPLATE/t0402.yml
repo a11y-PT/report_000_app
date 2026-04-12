@@ -1,6 +1,6 @@
-name: "R 4.2, checklist Transação"
-description: "requisito  4.2, checklist Transação"
-title: "R 4.2, checklist Transação"
+name: "R 4.2 - Transação"
+description: "Erros, desfazer a operação"
+title: "R 4.2 - Transação"
 labels:
   - chk transação
   - R 4.2

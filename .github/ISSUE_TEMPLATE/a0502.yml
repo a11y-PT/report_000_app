@@ -1,6 +1,6 @@
-name: "R 5.2 - 10 Aspetos"
-description: "requisito 5.2, checklist 10 Aspetos Web"
-title: "R 5.2 - 10 Aspetos"
+name: "R 5.2 - 10 Aspetos Web"
+description: "Gráficos, descrição longa"
+title: "R 5.2 - 10 Aspetos Web (Gráficos, descrição longa)"
 labels:
   - chk 10 web
   - R 5.2

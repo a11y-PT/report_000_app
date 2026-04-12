@@ -1,6 +1,6 @@
-name: "R 9.4 - 10 Aspetos"
-description: "requisito 9.4, checklist 10 Aspetos Web"
-title: "R 9.4 - 10 Aspetos"
+name: "R 9.4 - 10 Aspetos Web"
+description: "Modais, regresso ao gatilho"
+title: "R 9.4 - 10 Aspetos Web (Modais, regresso ao gatilho)"
 labels:
   - chk 10 web
   - R 9.4

@@ -1,6 +1,6 @@
-name: "R 10.1 - 10 Aspetos"
-description: "requisito 10.1, checklist 10 Aspetos Web"
-title: "R 10.1 - 10 Aspetos"
+name: "R 10.1 - 10 Aspetos Web"
+description: "PDF, preservar texto"
+title: "R 10.1 - 10 Aspetos Web (PDF, preservar texto)"
 labels:
   - chk 10 web
   - R 10.1

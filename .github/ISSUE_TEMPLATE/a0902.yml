@@ -1,6 +1,6 @@
-name: "R 9.2 - 10 Aspetos"
-description: "requisito 9.2, checklist 10 Aspetos Web"
-title: "R 9.2 - 10 Aspetos"
+name: "R 9.2 - 10 Aspetos Web"
+description: "Modais, navegação restrita"
+title: "R 9.2 - 10 Aspetos Web (Modais, navegação restrita)"
 labels:
   - chk 10 web
   - R 9.2

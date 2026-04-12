@@ -1,6 +1,6 @@
-name: "R 5.3, checklist Conteúdo"
-description: "requisito  5.3, checklist Conteúdo"
-title: "R 5.3, checklist Conteúdo"
+name: "R 5.3 - Conteúdo"
+description: "Interatividade, botão principal"
+title: "R 5.3 - Conteúdo"
 labels:
   - chk conteúdo
   - R 5.3

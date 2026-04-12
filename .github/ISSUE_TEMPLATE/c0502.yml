@@ -1,6 +1,6 @@
-name: "R 5.2, checklist Conteúdo"
-description: "requisito  5.2, checklist Conteúdo"
-title: "R 5.2, checklist Conteúdo"
+name: "R 5.2 - Conteúdo"
+description: "Interatividade, alvo de toque 44px"
+title: "R 5.2 - Conteúdo"
 labels:
   - chk conteúdo
   - R 5.2

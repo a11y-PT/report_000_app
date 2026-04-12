@@ -1,6 +1,6 @@
-name: "R 3.1 - 10 Aspetos"
-description: "requisito 3.1, checklist 10 Aspetos Web"
-title: "R 3.1 - 10 Aspetos"
+name: "R 3.1 - 10 Aspetos Web"
+description: "Tabelas, cabeçalhos das colunas"
+title: "R 3.1 - 10 Aspetos Web (Tabelas, cabeçalhos das colunas)"
 labels:
   - chk 10 web
   - R 3.1

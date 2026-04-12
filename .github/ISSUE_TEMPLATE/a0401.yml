@@ -1,6 +1,6 @@
-name: "R 4.1 - 10 Aspetos"
-description: "requisito 4.1, checklist 10 Aspetos Web"
-title: "R 4.1 - 10 Aspetos"
+name: "R 4.1 - 10 Aspetos Web"
+description: "Formulários, relação campo e etiqueta"
+title: "R 4.1 - 10 Aspetos Web (Formulários, relação campo e etiqueta)"
 labels:
   - chk 10 web
   - R 4.1

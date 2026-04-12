@@ -1,6 +1,6 @@
-name: "R 2.2, checklist Transação"
-description: "requisito  2.2, checklist Transação"
-title: "R 2.2, checklist Transação"
+name: "R 2.2 - Transação"
+description: "Campos, revelação progressiva"
+title: "R 2.2 - Transação"
 labels:
   - chk transação
   - R 2.2

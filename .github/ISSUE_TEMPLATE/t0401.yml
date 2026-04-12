@@ -1,6 +1,6 @@
-name: "R 4.1, checklist Transação"
-description: "requisito  4.1, checklist Transação"
-title: "R 4.1, checklist Transação"
+name: "R 4.1 - Transação"
+description: "Erros, correção de ações"
+title: "R 4.1 - Transação"
 labels:
   - R 4.1
 

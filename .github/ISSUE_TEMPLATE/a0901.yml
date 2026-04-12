@@ -1,6 +1,6 @@
-name: "R 9.1 - 10 Aspetos"
-description: "requisito 9.1, checklist 10 Aspetos Web"
-title: "R 9.1 - 10 Aspetos"
+name: "R 9.1 - 10 Aspetos Web"
+description: "Modais, foco"
+title: "R 9.1 - 10 Aspetos Web (Modais, foco)"
 labels:
   - chk 10 web
   - R 9.1

@@ -1,6 +1,6 @@
-name: "R 2.1, checklist Transação"
-description: "requisito  2.1, checklist Transação"
-title: "R 2.1, checklist Transação"
+name: "R 2.1 - Transação"
+description: "Campos, tamanho previsível"
+title: "R 2.1 - Transação"
 labels:
   - R 2.1
 

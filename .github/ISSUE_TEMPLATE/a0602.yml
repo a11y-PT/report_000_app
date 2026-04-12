@@ -1,6 +1,6 @@
-name: "R 6.2 - 10 Aspetos"
-description: "requisito 6.2, checklist 10 Aspetos Web"
-title: "R 6.2 - 10 Aspetos"
+name: "R 6.2 - 10 Aspetos Web"
+description: "Contraste, texto grande"
+title: "R 6.2 - 10 Aspetos Web (Contraste, texto grande)"
 labels:
   - chk 10 web
   - R 6.2

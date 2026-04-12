@@ -1,6 +1,6 @@
-name: "R 3.1, checklist Transação"
-description: "requisito  3.1, checklist Transação"
-title: "R 3.1, checklist Transação"
+name: "R 3.1 - Transação"
+description: "Resposta, anunciar progresso de ações longas"
+title: "R 3.1 - Transação"
 labels:
   - chk transação
   - R 3.1
