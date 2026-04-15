@@ -17,7 +17,8 @@ Aplicação móvel: {{ page.app }}
 - URL: {{ page.uri }}
 - Propriedade: {{ page.owner }}
 - Candidatura: {{ page.seal }}
-- 
+- Validade do selo: {{ page.validity }}
+- Estado: {{ page.status }}
 
 ## Relatório {{ page.app }}
 
