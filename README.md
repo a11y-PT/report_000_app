@@ -4,17 +4,19 @@ date: "31/12/1999"                    # Entre as aspas escreve a data de criaç�
 uri: "https://url_loja_app"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://dominio_sitio_web.pt/apps/acessibilidade-app1" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
 owner: "Nome_do_proprietário"         # Entre as aspas escrever o nome do owner da app
-seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+seal: "qual_o_selo"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.app }}
+# Relatório de auditoria
+
+Aplicação móvel: {{ page.app }}
 
 - Data de criação: {{ page.date }}
 - URL: {{ page.uri }}
 - Propriedade: {{ page.owner }}
 - Candidatura: {{ page.seal }}
 
-## Relatório de Auditoria
+## Relatório {{ page.app }}
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
