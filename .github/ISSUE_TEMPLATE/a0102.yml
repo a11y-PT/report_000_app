@@ -1,8 +1,8 @@
-name: "R 1.2 - 10 Aspetos Web"
-description: "Menu, navegação rato e teclado"
-title: "R 1.2 - 10 Aspetos Web (Menu, navegação rato e teclado)"
+name: "R 1.2 - 10 Aspetos App"
+description: "Ecrã pequeno, dimensão dos botões"
+title: "R 1.2 - 10 Aspetos App (Ecrã pequeno, dimensão dos botões)"
 labels:
-  - chk 10 web
+  - chk 10 app
   - R 1.2
 
 body:

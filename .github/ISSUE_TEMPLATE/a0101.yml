@@ -8,7 +8,7 @@ labels:
 body:
   - type: markdown
     attributes:
-      value: |
+      value:
       ## 1.1 Quantidade razoável de conteúdo exibida de cada vez
 
       **Aspeto A - Tamanho da linha**
