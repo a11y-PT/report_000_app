@@ -1,9 +1,9 @@
-name: "R 5.3 - 10 Aspetos App"
+name: "R 5.4 - 10 Aspetos App"
 description: "Ampliar e Redimensionar, formulários"
-title: "R 5.3 - 10 Aspetos App (Ampliar e Redimensionar, formulários)"
+title: "R 5.4 - 10 Aspetos App (Ampliar e Redimensionar, formulários)"
 labels:
   - chk 10 app
-  - R 5.3
+  - R 5.4
 
 body:
   - type: markdown
