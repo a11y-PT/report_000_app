@@ -1,15 +1,6 @@
-- name: av auto
-  color: "5319e7"
-  description: Capítulo avaliação automática
-- name: chk 10 web
+- name: chk 10 app
   color: "5319e7"
   description: Checklist 10 aspetos críticos para sítios web
-- name: chk conteúdo
-  color: "5319e7"
-  description: Checklist Conteúdo para sítios web
-- name: chk transação
-  color: "5319e7"
-  description: Checklist Transação para sítios web
 - name: dec a11y
   color: "5319e7"
   description: Capítulo declaração de acessibilidade
@@ -37,9 +28,6 @@
 - name: R 1.3
   color: "0052cc"
   description: Requisito 1.3
-- name: R 1.4
-  color: "0052cc"
-  description: Requisito 1.4
 - name: R 10.1
   color: "0052cc"
   description: Requisito 10.1
@@ -64,6 +52,9 @@
 - name: R 3.3
   color: "0052cc"
   description: Requisito 3.3
+- name: R 3.4
+  color: "0052cc"
+  description: Requisito 3.4
 - name: R 4.1
   color: "0052cc"
   description: Requisito 4.1
@@ -73,9 +64,6 @@
 - name: R 4.3
   color: "0052cc"
   description: Requisito 4.3
-- name: R 4.4
-  color: "0052cc"
-  description: Requisito 4.4
 - name: R 5.1
   color: "0052cc"
   description: Requisito 5.1
@@ -100,6 +88,15 @@
 - name: R 7.2
   color: "0052cc"
   description: Requisito 7.2
+  - name: R 7.3
+  color: "0052cc"
+  description: Requisito 7.3
+- name: R 7.3
+  color: "0052cc"
+  description: Requisito 7.3
+- name: R 7.4
+  color: "0052cc"
+  description: Requisito 7.4  
 - name: R 8.1
   color: "0052cc"
   description: Requisito 8.1
@@ -112,9 +109,6 @@
 - name: R 8.4
   color: "0052cc"
   description: Requisito 8.4
-- name: R 8.5
-  color: "0052cc"
-  description: Requisito 8.5
 - name: R 9.1
   color: "0052cc"
   description: Requisito 9.1
@@ -127,3 +121,6 @@
 - name: R 9.4
   color: "0052cc"
   description: Requisito 9.4
+- name: R 10.1
+  color: "0052cc"
+  description: Requisito 10.1
