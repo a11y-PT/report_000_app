@@ -1,8 +1,7 @@
 name: "R 4.2 - 10 Aspetos App"
-description: "Entrada, simples e previsíveis"
-title: "R 4.2 - 10 Aspetos App (Entrada, simples e previsíveis)"
-labels:
-  - chk 10 app
+description: "Entrada, simples e previsivel"
+title: "R 4.2 - 10 Aspetos App (Entrada, simples e previsivel)"
+labels  - chk 10 app
   - R 4.2
 
 body:
