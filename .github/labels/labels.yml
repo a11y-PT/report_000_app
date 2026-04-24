@@ -88,7 +88,7 @@
 - name: R 7.2
   color: "0052cc"
   description: Requisito 7.2
-  - name: R 7.3
+- name: R 7.3
   color: "0052cc"
   description: Requisito 7.3
 - name: R 7.3
